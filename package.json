@@ -1,5 +1,5 @@
 {
-    "name": "eeui-cli",
+    "name": "eper-cli",
     "version": "2.4.0",
     "description": "A simple CLI for scaffolding eeui projects, we provide eeui-template to quickly build small and medium sized app.",
     "bin": {
@@ -22,7 +22,7 @@
         "vue",
         "hybird app"
     ],
-    "author": "kuaifan",
+    "author": "angrybuer",
     "license": "MIT",
     "engines": {
         "node": ">=9"
